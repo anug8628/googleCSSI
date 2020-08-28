@@ -1,0 +1,12 @@
+button {
+  border-radius: 25px;
+  padding: 10px;
+  background-color: hsla(110, 100%, 50%, .7);
+  font-family: Helvetica;
+}
+
+button:hover {
+  background-color: hsla(110, 100%, 50%, 1);
+  text-shadow: .8px .8px 2px pink;
+}
+
